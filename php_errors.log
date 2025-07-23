@@ -1,0 +1,12 @@
+[10-Mar-2025 12:43:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in C:\xampp\htdocs\siparistakip\index.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\siparistakip\index.php on line 19
+[10-Mar-2025 12:53:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_report() in C:\xampp\htdocs\siparistakip\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\siparistakip\index.php on line 2
+[10-Mar-2025 12:55:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_report() in C:\xampp\htdocs\siparistakip\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\siparistakip\index.php on line 2
